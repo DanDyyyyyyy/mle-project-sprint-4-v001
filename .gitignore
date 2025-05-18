@@ -11,9 +11,18 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+<<<<<<< HEAD
 data/
 models/
 catboost_info/
+=======
+<<<<<<< HEAD
+=======
+data/
+models/
+catboost_info/
+>>>>>>> 01eb4a6 (Initial commit (очищенная история))
+>>>>>>> new-main
 downloads/
 eggs/
 .eggs/
@@ -169,6 +178,12 @@ cython_debug/
 *.pickle
 
 # project environment
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+env_recsys_start/
+=======
+>>>>>>> new-main
 env_recsys_start/data/*
 models/*
 data/*
@@ -176,3 +191,7 @@ catboost_info/*
 models/
 data/
 catboost_info/
+<<<<<<< HEAD
+=======
+>>>>>>> 01eb4a6 (Initial commit (очищенная история))
+>>>>>>> new-main
